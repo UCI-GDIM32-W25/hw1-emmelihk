@@ -72,6 +72,10 @@ Following My Own Terrible Instructions:
     1. The trouble now was getting the code to connect to the UI… I had to phone a friend for this…
         - New issue: the ui is still ##… I don’t know why this is.
 
+        I GOT IT. ok the struggle was actually i had to like... change the script or smth and i thought my computer was about to explode but CRISIS AVERTED!!! 
+
+        thank you to all the lovely people who helped me code this, actually could not have done this without you guys.
+
 ## Open-Source Assets
 If you added any other outside assets, list them here!
 - [Sprout Lands sprite asset pack](https://cupnooble.itch.io/sprout-lands-asset-pack) - character and item sprites
